@@ -3,8 +3,7 @@
 // returns one array which contains the sorted numbers
 // from left and right.
 exports.merge = function(left, right) {
-  
-return [1,2];
+
 }
 
 // Merge sort uses the merge function in order to
@@ -12,6 +11,6 @@ return [1,2];
 // order, merge sort should return an array that is
 // sorted.
 exports.mergeSort = function(arr) {
-  return [1,2];
+
 }
 
